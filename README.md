@@ -26,9 +26,9 @@ Sidecar For V2ray
 * 或者通过配置环境变量来运行:
 
 ```bash
-export V2SCAR_SYNC_TIME=60 # 和django-sspanel同步的时间间隔
-export V2SCAR_API_ENDPOINT="xxxx" # 这个是django-sspanel的sync api 地址
-export V2SCAR_GRPC_ENDPOINT="127.0.0.1:8080" # 这个是机器上v2ray开放的grpc地址
+export XSCAR_SYNC_TIME=60 # 和django-sspanel同步的时间间隔
+export XSCAR_API_ENDPOINT="xxxx" # 这个是django-sspanel的sync api 地址
+export XSCAR_GRPC_ENDPOINT="127.0.0.1:8080" # 这个是机器上v2ray开放的grpc地址
 ```
 
 ## 配置V2ray:

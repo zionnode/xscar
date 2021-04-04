@@ -1,4 +1,4 @@
-module github.com/zionnode/v2scar
+module github.com/zionnode/xscar
 
 require (
 	github.com/urfave/cli v1.22.4

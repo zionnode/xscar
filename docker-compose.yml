@@ -20,6 +20,6 @@ services:
     links:
       - v2ray
     environment:
-      V2SCAR_SYNC_TIME: 60
-      V2SCAR_API_ENDPOINT: ""
-      V2SCAR_GRPC_ENDPOINT: "v2ray:8080"
+      XSCAR_SYNC_TIME: 60
+      XSCAR_API_ENDPOINT: ""
+      XSCAR_GRPC_ENDPOINT: "v2ray:8080"
